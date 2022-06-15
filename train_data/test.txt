@@ -1,0 +1,10 @@
+./datasets/data_001/images/00055.jpg 3.4×0.5=1.7
+./datasets/data_001/images/00022.jpg 45+2+50=97
+./datasets/data_001/images/00006.jpg 18÷3+9=15
+./datasets/data_001/images/00019.jpg 49÷7=7
+./datasets/data_001/images/00008.jpg 0.35+0.45=0.8
+./datasets/data_001/images/00009.jpg 28.56-14.76=13.8
+./datasets/data_001/images/00016.jpg 308×7=2156
+./datasets/data_001/images/00049.jpg 12÷6=2
+./datasets/data_001/images/00097.jpg 29.3+12.8=42.1
+./datasets/data_001/images/00051.jpg 54÷6=9
